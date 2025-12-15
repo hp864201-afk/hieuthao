@@ -1,6 +1,7 @@
 var should = require('should');
 var sugar = require('sugar');
-
+var should = require('should');
+var sugar = require('sugar');
 var should = require('should');
 var sugar = require('sugar');
 var should = require('should');
