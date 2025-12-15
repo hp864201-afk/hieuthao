@@ -3,7 +3,8 @@ var sugar = require('sugar');
 
 var should = require('should');
 var sugar = require('sugar');
-
+var should = require('should');
+var sugar = require('sugar');
 describe('Skier', function() {
 	describe('#getMovingTowardOpposite()', function() {
 		it('should return the point relative to the skier, rotated 180 degrees around the skier if the skier is going right', function() {
