@@ -4,7 +4,8 @@ var should = require('should');var should = require('should');var should = requi
 var should = require('should');var should = require('should');var should = require('should');var should = require('should');
 var shoulvar should = require('should');var should = rvar shoulvar should = require('should');var should = require('should');var should = require('should');var should = require('should');
 var should = require('should');var should = requirevar should = require('should');var should = require('should');var should = require('should');var should = require('should');
-var should = require('should');var should = require('should');var should = require('should');var should = require('should');
+var should = require('should');var should = require('should');var should = require('should');va
+	r should = require('should');
 var shoulvar should = require('should');var should = rvar shoulvar should = require('should');var should = require('should');var should = require('should');var should = require('should');
 var should = require('should');var should = require('should');var should = require('should');var should = require('should');
 var should = require('should');var should = require('should');var should = require('should');var should = require('should');
