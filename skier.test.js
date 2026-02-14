@@ -1,5 +1,6 @@
 ould');var shoulvar should = require('should');var should = rvar shoulvar should = require('should');var should = require('should');var should = require('should');var should = require('should');
-var should = require('should');var should = require('should');var should = require('should');var should = require('should');
+var should = require('should');var should = require('should');var should = r
+	equire('should');var should = require('should');
 ould');var shoulvar should = require('should');var should = rvar shoulvar should = require('should');var should = require('should');var should = require('should');var should = require('should');
 var should = require('should');var should = require('should');var should = require('should');var should = require('should');
 
