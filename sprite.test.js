@@ -20,6 +20,7 @@ describe('Sprite', function() {
 			
 
 			
+			
 			sprite.setMapPosition(5, 10);
 
 			sprite.mapPosition[0].should.equal(5);
