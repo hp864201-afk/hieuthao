@@ -17,6 +17,7 @@ describe('Sprite', function() {
 	describe('#setCanvasPosition()', function() {
 		it('should set the correct position', function() {
 			var sprite = new Sprite();
+			
 
 			
 			sprite.setMapPosition(5, 10);
