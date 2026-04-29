@@ -40,6 +40,7 @@ describe('Sprite', function() {
 			sprite.cycle();
 
 			sprite.mapPosition[0].should.equal(8);
+			
 			sprite.mapPosition[1].should.equal(13);
 		});
 
